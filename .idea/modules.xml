@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaNIO_02/JavaNIO_02.iml" filepath="$PROJECT_DIR$/JavaNIO_02/JavaNIO_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaNIO_03/JavaNIO_03.iml" filepath="$PROJECT_DIR$/JavaNIO_03/JavaNIO_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaNIO_04/JavaNIO_04.iml" filepath="$PROJECT_DIR$/JavaNIO_04/JavaNIO_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaNIO_05/JavaNIO_05.iml" filepath="$PROJECT_DIR$/JavaNIO_05/JavaNIO_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_NIO.iml" filepath="$PROJECT_DIR$/Java_NIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestObjSerializeAndDeserialize/TestObjSerializeAndDeserialize.iml" filepath="$PROJECT_DIR$/TestObjSerializeAndDeserialize/TestObjSerializeAndDeserialize.iml" />
+    </modules>
+  </component>
+</project>
